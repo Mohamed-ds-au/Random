@@ -1,0 +1,3 @@
+employee_id,age,gender,years_at_company,job_role,monthly_income,work_life_balance,job_satisfaction,performance_rating,number_of_promotions,overtime,distance_from_home,education_level,marital_status,number_of_dependents,job_level,company_size,remote_work,leadership_opportunities,innovation_opportunities,company_reputation,employee_recognition,age_groups,age_before_working
+54496,19,Male,1,Media,3916,Fair,High,Average,0,No,2,Associate Degree,Single,0,Entry,Large,Yes,No,No,Good,Medium,18-25,18
+12457,28,Male,9,Finance,10041,Poor,Low,Average,2,Yes,2,PhD,Single,0,Mid,Large,Yes,No,No,Fair,Low,26-35,19
